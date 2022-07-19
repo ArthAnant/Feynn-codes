@@ -1,1 +1,1 @@
-# Sem-5-WT-Project
+# McDonald's market segmentation
